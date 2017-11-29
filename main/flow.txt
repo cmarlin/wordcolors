@@ -1,0 +1,15 @@
+
+intro
+
+joy (word) ffff00
+digust (word) 00ff00
+terror ff00ff
+angry ff0000
+
+middle
+
+melancoly (joy+sadness)
+intrigue (joy+disgust)
+anxiety (fear+disgust)
+
+outro
